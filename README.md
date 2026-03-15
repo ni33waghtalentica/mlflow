@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLflow GenAI & Model Training – Gemini QA + Industry Experiments
 
 Evaluate **Google Gemini** QA models with **MLflow**, run **industry-style experiments** (regression, classification, cancer, prompt comparison), and view everything in the **local MLflow UI**.
@@ -174,3 +175,7 @@ mlflow-main/
 ## License
 
 See the repository for license information.
+=======
+# mlflow
+Created for Shankar's assignment
+>>>>>>> 36b6d46932ecfc06b26a84d97308f181c0db2b06
