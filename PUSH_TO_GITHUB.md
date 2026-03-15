@@ -2,7 +2,7 @@
 
 Target repo: **https://github.com/ni33waghtalentica/mlflow.git**
 
-Run these commands in **Terminal** from this folder (`mlflow-main` on your Desktop).
+An initial push (`.gitignore`, this file, and merge with the repo’s README) is already done. To add **all remaining files** (e.g. `test.py`, `run_extra_experiments.py`, full `README.md`, etc.) from your Desktop `mlflow-main` folder, run the following in **Terminal**.
 
 ## 1. Go to the project folder
 
@@ -10,14 +10,15 @@ Run these commands in **Terminal** from this folder (`mlflow-main` on your Deskt
 cd /Users/nitinw/Desktop/mlflow-main
 ```
 
-## 2. If this is not yet a git repo
+## 2. If this folder is not yet a git repo
 
 ```bash
 git init
 git remote add origin https://github.com/ni33waghtalentica/mlflow.git
+git pull origin main --allow-unrelated-histories --no-rebase --no-edit
 ```
 
-(If you already ran this once, skip to step 3.)
+(If the repo is already set up and you only want to add more files, skip to step 3.)
 
 ## 3. Add all files, commit, and push
 
@@ -25,15 +26,7 @@ git remote add origin https://github.com/ni33waghtalentica/mlflow.git
 git add -A
 git status
 git commit -m "Add MLflow GenAI + industry experiments (QA, Cancer, Regression, etc.)"
-git branch -M main
-git push -u origin main
-```
-
-If the GitHub repo already has a README or other content, use:
-
-```bash
-git pull origin main --allow-unrelated-histories
-git push -u origin main
+git push origin main
 ```
 
 ## What gets pushed
