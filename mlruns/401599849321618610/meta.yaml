@@ -1,0 +1,7 @@
+artifact_location: file:///Users/nitinw/Desktop/mlflow-main/mlruns/401599849321618610
+creation_time: 1773588603896
+experiment_id: '401599849321618610'
+last_update_time: 1773588603896
+lifecycle_stage: active
+name: Classification (Digits)
+workspace: default

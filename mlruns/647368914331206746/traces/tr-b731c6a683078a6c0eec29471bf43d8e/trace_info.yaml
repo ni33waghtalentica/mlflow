@@ -1,0 +1,11 @@
+execution_duration_ms: 215
+request_preview: '{"model": "gemini-2.0-flash", "contents": "Answer the following
+  question in two sentences\n\nQuestion: What is MLflow?"}'
+request_time: '2026-03-15T15:13:00.153Z'
+response_preview: ''
+state: ERROR
+trace_id: tr-b731c6a683078a6c0eec29471bf43d8e
+trace_location:
+  mlflow_experiment:
+    experiment_id: '647368914331206746'
+  type: MLFLOW_EXPERIMENT

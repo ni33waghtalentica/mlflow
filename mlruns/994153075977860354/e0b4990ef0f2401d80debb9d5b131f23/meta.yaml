@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nitinw/Desktop/mlflow-main/mlruns/994153075977860354/e0b4990ef0f2401d80debb9d5b131f23/artifacts
+end_time: 1773588861580
+entry_point_name: ''
+experiment_id: '994153075977860354'
+lifecycle_stage: active
+run_id: e0b4990ef0f2401d80debb9d5b131f23
+run_name: breast_cancer_logreg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773588858400
+status: 3
+tags: []
+user_id: nitinw

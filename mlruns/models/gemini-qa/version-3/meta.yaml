@@ -1,0 +1,16 @@
+creation_timestamp: 1773587638511
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1773587638511
+model_id: m-b0a364a5affa4ebd9ee763ab46b963b5
+name: gemini-qa
+run_id: 69488118b7024ac0850582a996081ca5
+run_link: null
+source: models:/m-b0a364a5affa4ebd9ee763ab46b963b5
+status: READY
+status_message: null
+storage_location: file:///Users/nitinw/Desktop/mlflow-main/mlruns/647368914331206746/models/m-b0a364a5affa4ebd9ee763ab46b963b5/artifacts
+user_id: null
+version: 3
+workspace: default

@@ -1,0 +1,7 @@
+artifact_location: file:///Users/nitinw/Desktop/mlflow-main/mlruns/993506813697954693
+creation_time: 1773588614052
+experiment_id: '993506813697954693'
+last_update_time: 1773588614052
+lifecycle_stage: active
+name: Hyperparameter Sweep
+workspace: default

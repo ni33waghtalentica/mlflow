@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nitinw/Desktop/mlflow-main/mlruns/647368914331206746/b6b6b3dc06154df2977aad33ac35d295/artifacts
+end_time: 1773515079815
+entry_point_name: ''
+experiment_id: '647368914331206746'
+lifecycle_stage: active
+run_id: b6b6b3dc06154df2977aad33ac35d295
+run_name: mercurial-grouse-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773515045982
+status: 4
+tags: []
+user_id: nitinw

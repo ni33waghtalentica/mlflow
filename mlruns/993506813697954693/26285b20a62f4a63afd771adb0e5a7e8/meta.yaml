@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nitinw/Desktop/mlflow-main/mlruns/993506813697954693/26285b20a62f4a63afd771adb0e5a7e8/artifacts
+end_time: 1773588614201
+entry_point_name: ''
+experiment_id: '993506813697954693'
+lifecycle_stage: active
+run_id: 26285b20a62f4a63afd771adb0e5a7e8
+run_name: alpha_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773588614186
+status: 3
+tags: []
+user_id: nitinw

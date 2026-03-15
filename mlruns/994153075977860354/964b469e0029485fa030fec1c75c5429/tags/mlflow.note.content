@@ -1,0 +1,1 @@
+Cancer classification run: LogisticRegression on synthetic_multi_cancer. Classes=5. Logs datasets, confusion matrix, and sample data.

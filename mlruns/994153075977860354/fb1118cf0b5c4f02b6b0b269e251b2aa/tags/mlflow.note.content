@@ -1,0 +1,1 @@
+Cancer classification run: LogisticRegression on breast_cancer_wisconsin. Classes=2. Logs datasets, confusion matrix, and sample data.

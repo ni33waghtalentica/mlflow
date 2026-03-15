@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nitinw/Desktop/mlflow-main/mlruns/647368914331206746/69488118b7024ac0850582a996081ca5/artifacts
+end_time: 1773587881735
+entry_point_name: ''
+experiment_id: '647368914331206746'
+lifecycle_stage: active
+run_id: 69488118b7024ac0850582a996081ca5
+run_name: magnificent-duck-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773587634003
+status: 4
+tags: []
+user_id: nitinw

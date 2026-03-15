@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nitinw/Desktop/mlflow-main/mlruns/994153075977860354/f93d5b2539a4442e988104320df1b80e/artifacts
+end_time: 1773589371930
+entry_point_name: ''
+experiment_id: '994153075977860354'
+lifecycle_stage: active
+run_id: f93d5b2539a4442e988104320df1b80e
+run_name: multi_cancer_type_rf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773589368003
+status: 3
+tags: []
+user_id: nitinw

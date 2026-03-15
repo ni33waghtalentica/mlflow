@@ -1,0 +1,7 @@
+artifact_location: file:///Users/nitinw/Desktop/mlflow-main/mlruns/647368914331206746
+creation_time: 1773515045822
+experiment_id: '647368914331206746'
+last_update_time: 1773515045822
+lifecycle_stage: active
+name: LLM Evaluation
+workspace: default

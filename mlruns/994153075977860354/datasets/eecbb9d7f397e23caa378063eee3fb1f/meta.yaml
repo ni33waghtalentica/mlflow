@@ -1,0 +1,13 @@
+digest: 0f546b30
+name: dataset
+profile: '{"num_rows": 640, "num_elements": 8320}'
+schema: '{"mlflow_colspec": [{"type": "float", "name": 0, "required": true}, {"type":
+  "float", "name": 1, "required": true}, {"type": "float", "name": 2, "required":
+  true}, {"type": "float", "name": 3, "required": true}, {"type": "float", "name":
+  4, "required": true}, {"type": "float", "name": 5, "required": true}, {"type": "float",
+  "name": 6, "required": true}, {"type": "float", "name": 7, "required": true}, {"type":
+  "float", "name": 8, "required": true}, {"type": "float", "name": 9, "required":
+  true}, {"type": "float", "name": 10, "required": true}, {"type": "float", "name":
+  11, "required": true}, {"type": "long", "name": "target", "required": true}]}'
+source: '{"uri": "synthetic_multi_cancer_train.csv"}'
+source_type: local

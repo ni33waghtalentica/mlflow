@@ -1,0 +1,10 @@
+artifact_location: file:///Users/nitinw/Desktop/mlflow-main/mlruns/647368914331206746/models/m-b0a364a5affa4ebd9ee763ab46b963b5/artifacts
+creation_timestamp: 1773587634048
+experiment_id: '647368914331206746'
+last_updated_timestamp: 1773587638482
+model_id: m-b0a364a5affa4ebd9ee763ab46b963b5
+model_type: null
+name: model
+source_run_id: 69488118b7024ac0850582a996081ca5
+status: 2
+status_message: null

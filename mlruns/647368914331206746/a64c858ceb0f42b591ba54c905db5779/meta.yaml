@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nitinw/Desktop/mlflow-main/mlruns/647368914331206746/a64c858ceb0f42b591ba54c905db5779/artifacts
+end_time: 1773587700884
+entry_point_name: ''
+experiment_id: '647368914331206746'
+lifecycle_stage: active
+run_id: a64c858ceb0f42b591ba54c905db5779
+run_name: upset-midge-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773587481972
+status: 4
+tags: []
+user_id: nitinw

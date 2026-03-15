@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nitinw/Desktop/mlflow-main/mlruns/401599849321618610/4831f69a797e4564b8666193ce5480f4/artifacts
+end_time: 1773588698659
+entry_point_name: ''
+experiment_id: '401599849321618610'
+lifecycle_stage: active
+run_id: 4831f69a797e4564b8666193ce5480f4
+run_name: logreg_C_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773588695599
+status: 3
+tags: []
+user_id: nitinw

@@ -1,0 +1,19 @@
+artifact_path: file:///Users/nitinw/Desktop/mlflow-main/mlruns/647368914331206746/models/m-b0a364a5affa4ebd9ee763ab46b963b5/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.2
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.14.3
+    streamable: false
+mlflow_version: 3.10.1
+model_id: m-b0a364a5affa4ebd9ee763ab46b963b5
+model_size_bytes: 7163
+model_uuid: m-b0a364a5affa4ebd9ee763ab46b963b5
+prompts: null
+run_id: 69488118b7024ac0850582a996081ca5
+utc_time_created: '2026-03-15 15:13:54.081088'

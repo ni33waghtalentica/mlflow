@@ -1,0 +1,16 @@
+creation_timestamp: 1773589364550
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1773589364550
+model_id: m-08326d48dfaa4396ba6c4e025a664309
+name: cancer-classifier
+run_id: 10dbd59b6ed040449cd293a42eecb161
+run_link: null
+source: models:/m-08326d48dfaa4396ba6c4e025a664309
+status: READY
+status_message: null
+storage_location: file:///Users/nitinw/Desktop/mlflow-main/mlruns/994153075977860354/models/m-08326d48dfaa4396ba6c4e025a664309/artifacts
+user_id: null
+version: 1
+workspace: default

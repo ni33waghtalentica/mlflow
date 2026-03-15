@@ -1,0 +1,1 @@
+Cancer classification run: RandomForestClassifier on synthetic_multi_cancer. Classes=5. Logs datasets, confusion matrix, and sample data.
